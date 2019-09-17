@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ccm-wallet
+GenericName=ccm-wallet
+Name[uk]=ccm-wallet
+Name[ru]=ccm-wallet
+Name[pl]=ccm-wallet
+Name[be]=ccm-wallet
+Name[de]=ccm-wallet
+Name[es]=ccm-wallet
+Comment=ccm wallet
+Comment[uk]=Гаманець ccm
+Comment[ru]=Кошелек ccm
+Comment[pl]=Portfel ccm
+Comment[be]=Кашалёк ccm
+Comment[de]=ccm Brieftasche
+Comment[es]=ccm Monedero
+Exec=ccm-wallet %U
+Terminal=false
+Type=Application
+Icon=ccm
+MimeType=x-scheme-handler/ccm;
+Categories=Office;Finance;
+Version=1.0.0
